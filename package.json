@@ -1,4 +1,5 @@
 {
+  "homepage": "https://hanriverkitty.github.io/weighttime_server/",
   "name": "weight_time",
   "version": "0.1.0",
   "private": true,
@@ -44,6 +45,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "homepage": "https://weightsforfun.github.io/Weight_Time"
+  }
 }
