@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/weighttime_server/static/css/main.a880dc10.css",
-    "main.js": "/weighttime_server/static/js/main.4f43ef1d.js",
+    "main.css": "/weighttime_server/static/css/main.b938ceb0.css",
+    "main.js": "/weighttime_server/static/js/main.ac8e5a02.js",
     "static/media/background3.png": "/weighttime_server/static/media/background3.06be36f2299c5c596014.png",
     "index.html": "/weighttime_server/index.html",
-    "main.a880dc10.css.map": "/weighttime_server/static/css/main.a880dc10.css.map",
-    "main.4f43ef1d.js.map": "/weighttime_server/static/js/main.4f43ef1d.js.map"
+    "main.b938ceb0.css.map": "/weighttime_server/static/css/main.b938ceb0.css.map",
+    "main.ac8e5a02.js.map": "/weighttime_server/static/js/main.ac8e5a02.js.map"
   },
   "entrypoints": [
-    "static/css/main.a880dc10.css",
-    "static/js/main.4f43ef1d.js"
+    "static/css/main.b938ceb0.css",
+    "static/js/main.ac8e5a02.js"
   ]
 }
